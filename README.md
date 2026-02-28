@@ -1,9 +1,4 @@
-Este proyecto es una aplicación de consola desarrollada en Python diseñada para gestionar la plantilla de un equipo de fútbol. Permite registrar jugadores y capitanes, almacenar sus estadísticas y persistir los datos en un archivo de texto.
-El sistema fue diseñado aplicando los pilares de la Programación Orientada a Objetos (POO) y el manejo robusto de errores.
-Registro Dinámico: Permite ingresar nombre, edad, posición y goles de cada integrante.
-Jerarquía de Clases: Diferenciación entre un Jugador regular y un Capitán (quien posee un atributo adicional de liderazgo).
-Persistencia de Datos: Los datos no se pierden al cerrar el programa; se guardan y cargan automáticamente desde un archivo jugadores.txt.
-Validación de Entradas: Implementación de bloques try-except para evitar que el programa falle si se ingresan datos incorrectos (como texto en campos numéricos).
+Desarrollé esta aplicación en Python pensando en la gestión práctica de equipos de fútbol. Mi objetivo no era solo crear una herramienta que registrara jugadores y capitanes, sino construir un sistema sólido que no falle ante errores comunes del usuario. Implementé Programación Orientada a Objetos para darle una estructura lógica a la jerarquía del equipo y me aseguré de que ninguna estadística se pierda, guardando todo automáticamente en archivos locales. 
 
 <img width="2071" height="567" alt="image" src="https://github.com/user-attachments/assets/9c15d513-3e9a-4d03-8b5f-ba2655374347" />
 <img width="2074" height="970" alt="image" src="https://github.com/user-attachments/assets/75a45aa1-af34-4259-9c24-4facca9406f6" />
